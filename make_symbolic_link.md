@@ -1,0 +1,1 @@
+New-Item -ItemType SymbolicLink -Path "your_rimworld_directory\Profiler" -Target ".\Mod"
